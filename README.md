@@ -38,3 +38,6 @@ En esta semana se aprendió sobre CSS y las etiquetas, así como selectores bás
 
 Sitios creados:
 * SitioWeb04
+
+Actividad Evaluativa:
+* CicloI-CT01
