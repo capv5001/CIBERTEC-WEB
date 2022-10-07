@@ -32,3 +32,9 @@ Aprendido:
 * Navegación entre páginas
 
 ----
+### Sesión 4
+
+En esta semana se aprendió sobre CSS y las etiquetas, así como selectores básicos. Es un progreso base, igualmente, se pudo completar el ejercicio en 20 mins con la imagen ya predefinida.
+
+Sitios creados:
+* SitioWeb04

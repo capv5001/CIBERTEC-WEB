@@ -1,0 +1,101 @@
+/* Modificadores Generales */
+.container{
+    max-width: 1200px;
+    margin:0 auto;
+}
+
+.bg-img-1{
+    background-color: beige;
+    background-image:url('../img/f1.jpg');
+}
+.bg-img-2{
+    background-color: beige;
+    background-image:url('../img/f2.jpg');
+}
+.bg-img-3{
+    background-color: beige;
+    background-image:url('../img/f3.jpg');
+}
+.bg-img-4{
+    background-color: beige;
+    background-image:url('../img/f4.jpg');
+}
+.bg-img-5{
+    background-color: beige;
+    background-image:url('../img/f5.jpg');
+}
+.bg-img-6{
+    background-color: beige;
+    background-image:url('../img/f6.jpg');
+}
+.bg-color-white{
+    background-color: white;
+}
+.border-dashed{
+    border-style: dashed;
+}
+.border-color-purple{
+    border-color: purple;
+}
+
+.p-5{
+    padding:20px;
+}
+.text-center{
+    text-align: center;
+}
+/* Fin Modificadores Generales */
+
+/* Patrón General */
+hr{
+    border-color:magenta;
+}
+h1{
+    color: darkcyan;
+}
+h2{
+    color: violet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    text-align: justify;
+    color: darkblue
+}
+a{
+    color:darkorange;
+}
+ul{
+    padding-left:20px
+}
+li::marker{
+    color:darkorange
+}
+table,
+td, 
+th{
+    border: 2px solid blue;
+}
+/* Patrón General */
+
+/* Modificadores Específicos */
+.seccion-galeria img{
+    /* Especificaciones de anchura */
+    min-width: 200px;
+    width: 300px;
+    max-width: 400px;
+
+    /* Especificaciones de borde */
+    border: 2px dashed purple;
+    border-radius: 20px;
+}
+
+.seccion-derechos{
+    margin-top: 30px;
+    padding: 20px;
+
+    background-color: black;
+}
+.seccion-derechos p{
+    color: white;
+}
+/* Modificadores Específicos */
